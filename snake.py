@@ -1,8 +1,9 @@
 # Simple Game
+
 from tkinter import *
 import random
 
-
+#The variables can be changed
 GAME_WIDTH = 600
 GAME_HEIGHT = 550
 SPEED = 110
